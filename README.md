@@ -4,7 +4,7 @@
 [![Crates.io](https://img.shields.io/crates/v/philiprehberger-diff-assert.svg)](https://crates.io/crates/philiprehberger-diff-assert)
 [![License](https://img.shields.io/github/license/philiprehberger/rs-diff-assert)](LICENSE)
 
-Better test assertion diffs with colored inline comparisons.
+Better test assertion diffs with colored inline comparisons
 
 ## Installation
 
