@@ -1,0 +1,10 @@
+[package]
+name = "philiprehberger-diff-assert"
+version = "0.1.0"
+edition = "2021"
+authors = ["Philip Rehberger"]
+description = "Better test assertion diffs with colored inline comparisons"
+license = "MIT"
+repository = "https://github.com/philiprehberger/rs-diff-assert"
+keywords = ["assert", "diff", "testing", "debug", "comparison"]
+categories = ["development-tools::testing"]
