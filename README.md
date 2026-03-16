@@ -10,7 +10,7 @@ Better test assertion diffs with colored inline comparisons.
 
 ```toml
 [dependencies]
-philiprehberger-diff-assert = "0.1.5"
+philiprehberger-diff-assert = "0.1.6"
 ```
 
 ## Usage
@@ -54,6 +54,14 @@ println!("{}", diff);
 | `diff_strings(left, right)` | Get colored diff of two strings |
 | `diff_strings_no_color(left, right)` | Get diff without ANSI codes |
 | `diff_debug(left, right)` | Diff Debug output of two values |
+
+
+## Development
+
+```bash
+cargo test
+cargo clippy -- -D warnings
+```
 
 ## License
 
