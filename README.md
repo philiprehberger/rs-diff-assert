@@ -10,7 +10,7 @@ Better test assertion diffs with colored inline comparisons
 
 ```toml
 [dependencies]
-philiprehberger-diff-assert = "0.1.6"
+philiprehberger-diff-assert = "0.1.7"
 ```
 
 ## Usage
