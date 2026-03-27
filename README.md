@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/rs-diff-assert/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/rs-diff-assert/actions/workflows/ci.yml)
 [![Crates.io](https://img.shields.io/crates/v/philiprehberger-diff-assert.svg)](https://crates.io/crates/philiprehberger-diff-assert)
 [![License](https://img.shields.io/github/license/philiprehberger/rs-diff-assert)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Better test assertion diffs with colored inline comparisons
 
